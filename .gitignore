@@ -1,0 +1,4 @@
+# Ignore config files
+udagram-deployment/kubernetes/env-secret.yaml
+udagram-deployment/kubernetes/env-configmap.yaml
+udagram-deployment/kubernetes/aws-secret.yaml
