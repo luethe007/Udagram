@@ -11,7 +11,8 @@ application is split into the following components:
 - Feed Backend
 - Users Backend.
 
-Each of these components are containerized and deployed to a Kubernetes cluster on AWS.  
+Each of these components have been containerized and deployed to a Kubernetes cluster on AWS to pass the Microservices project. The app was only hosted for the sake of this project, so it is not available anymore.
+
 You can check my infrastructure in the /screenshots folder.  
 
 Feel free to provide me any feedback.  
